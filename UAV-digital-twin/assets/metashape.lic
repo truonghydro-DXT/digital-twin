@@ -1,0 +1,6 @@
+[license]
+vendor = agisoft
+product = metashape-pro
+version = 1.0
+hostid = any
+signature = www

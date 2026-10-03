@@ -1,0 +1,9 @@
+{
+  "extraPaths": [
+    "UAV-digital-twin",
+    "venv/Lib/site-packages",
+    "../digital-twin/UAV-digital-twin",
+    "../digital-twin/venv/Lib/site-packages"
+  ],
+  "reportMissingImports": "none"
+}

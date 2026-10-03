@@ -1,0 +1,16 @@
+{
+  "images": "D:\\WORK\\digital-twin\\data\\danphuong3D",
+  "images_list": [
+    "D:\\WORK\\digital-twin\\data\\danphuong3D\\DJI_202608211314_026_danphuong3D",
+    "D:\\WORK\\digital-twin\\data\\danphuong3D\\DJI_202608211339_027_danphuong3D"
+  ],
+  "images_scanned": [
+    "D:\\WORK\\digital-twin\\data\\danphuong3D\\DJI_202608211314_026_danphuong3D",
+    "D:\\WORK\\digital-twin\\data\\danphuong3D\\DJI_202608211339_027_danphuong3D"
+  ],
+  "output": "D:\\WORK\\digital-twin\\output-3d-filnal",
+  "images_exists": true,
+  "output_exists": true,
+  "images_note": "",
+  "output_note": ""
+}

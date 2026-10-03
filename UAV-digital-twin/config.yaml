@@ -1,0 +1,15 @@
+workflow:
+  settings:
+    cpu_enable: false
+    gpu_mask: "11"
+    log: "./path/log/"
+  project:
+    path: "../new_project/new_project.psx"
+  exportResults:
+    exportDEM: {}
+    exportOrthomosaic: {}
+    exportModel: {}
+    exportPointCloud: {}
+    exportTiledModel: {}
+    exportTexture: {}
+    exportOrthophotos: {}
